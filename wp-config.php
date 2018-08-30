@@ -42,7 +42,7 @@ define( 'DB_NAME', 'ahhyuns4_universitydata' );
 define( 'DB_USER', 'ahhyuns4_wp730' );
 
 /** MySQL database password */
-define( 'DB_PASSWORD', 'Hthebest8!s' );
+define( 'DB_PASSWORD', 'ahhyunsim' );
 
 /** MySQL hostname */
 define( 'DB_HOST', 'localhost' );
